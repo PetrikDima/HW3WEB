@@ -4,9 +4,9 @@ from time import sleep
 from prompt_toolkit import PromptSession, print_formatted_text, ANSI
 from prompt_toolkit.shortcuts import CompleteStyle, set_title
 
-from address_book import AddressBook
-from notes import Notes
-from cli_commands import CliCompleter, CliCmdParser, ExitCmd
+from free_assist.address_book import AddressBook
+from free_assist.notes import Notes
+from free_assist.cli_commands import CliCompleter, CliCmdParser, ExitCmd
 
 
 class CLI:

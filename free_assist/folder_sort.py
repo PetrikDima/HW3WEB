@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-from function import normalize, error_msg
+from free_assist.function import normalize, error_msg
 
 
 class FolderSorter:

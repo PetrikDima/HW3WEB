@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5b82107-aa34-4bb4-bf1e-4ceff894e659" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HW2WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HW2WEB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/free_assist/abstractions.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_assist/abstractions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/free_assist/address_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_assist/address_book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free_assist/cli_commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_assist/cli_commands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free_assist/folder_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_assist/folder_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free_assist/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/free_assist/notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/free_assist/notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +40,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Python Projects/Web/HW3WEB",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HW2WEB" />
@@ -78,6 +87,9 @@
       <updated>1666878642407</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

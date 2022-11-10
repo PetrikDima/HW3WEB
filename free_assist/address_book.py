@@ -6,8 +6,8 @@ from pathlib import Path
 from dateutil.parser import parse as date_parse, ParserError
 from dateutil.relativedelta import relativedelta
 
-from function import error_msg, warning_msg, info_msg
-from abstractions import Interface
+from free_assist.function import error_msg, warning_msg, info_msg
+from free_assist.abstractions import Interface
 
 
 class Field:

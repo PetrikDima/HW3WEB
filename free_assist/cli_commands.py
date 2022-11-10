@@ -6,10 +6,10 @@ from prompt_toolkit.completion import Completer, Completion
 from prompt_toolkit.validation import Validator
 from prompt_toolkit.shortcuts import confirm
 
-from address_book import AddressBook
-from folder_sort import FolderSorter
-from notes import Notes
-from function import *
+from free_assist.address_book import AddressBook
+from free_assist.folder_sort import FolderSorter
+from free_assist.notes import Notes
+from free_assist.function import *
 
 Param = namedtuple("Param", "name required")
 param_style = Style.from_dict({'param_name': '#ffffff'})

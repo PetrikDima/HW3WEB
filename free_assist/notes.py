@@ -1,8 +1,8 @@
 import shelve
 from pathlib import Path
 
-from function import warning_msg, info_msg
-from abstractions import Interface
+from free_assist.function import warning_msg, info_msg
+from free_assist.abstractions import Interface
 
 
 class Note(Interface):
